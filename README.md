@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Rafael Bondioli.
 - 👀 I’m interested in how too learn programing.
-- 🌱 I’m currently looking for a job that i can learn  be a programer.
+- 🌱 I’m currently looking for a job that i can learn more and more.
 - 💞️ I’m looking to collaborate the community for improve my skills
 - 📫 How to reach me >> rafaeltecsuporte@gmail.com.
 - https://www.linkedin.com/in/rafael-bondioli-98069215/
-- my cell phone is 55 (11) 95618-1898.
+- my cell phone is 55 (11) 991351356.
 - tks a lot for use your time to know me.
 
 <!---
