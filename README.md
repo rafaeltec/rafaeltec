@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate the community for improve my skills
 - 📫 How to reach me >> rafaeltecsuporte@gmail.com.
 - https://www.linkedin.com/in/rafael-bondioli-98069215/
-- my cell phone is 55 (11) 991351356.
 - tks a lot for use your time to know me.
 
 <!---
