@@ -1,5 +1,3 @@
-Para adicionar emojis ou banners das tecnologias em seu perfil do GitHub, você pode utilizar ícones específicos para cada tecnologia. Aqui está como você pode atualizar a seção de tecnologias com emojis representativos:
-
 ---
 
 # 👋 Olá, sou Rafael Bondioli! 🚀
