@@ -11,10 +11,10 @@ Estou profundamente imerso no mundo da tecnologia, explorando e implementando so
 Como Analista Sênior de Projetos de TI na Amend Cosméticos, continuo a liderar iniciativas inovadoras para otimizar processos utilizando GPT e outras tecnologias emergentes. Estou em busca de oportunidades para aplicar minhas habilidades avançadas em projetos desafiadores e inovadores, com foco em inteligência artificial e automação. 📈
 
 ## 🛠️ Stack de Tecnologias
-- **Linguagens de Programação:** Java ☕, JavaScript 🟨, C# 🔵, SQL 🛢️
+- **Linguagens de Programação:** Java ☕, JavaScript 🟨, C# 🔵, Python 🐍
 - **Ferramentas de IA:** GPT 🤖, Stable Diffusion 🌌, MidJourney 🚀
 - **Sistemas Operacionais:** Windows 🪟, MacOS 🍏, Linux 🐧
-- **Banco de Dados:** SQL Server 🗄️, MySQL 🐬, PostgreSQL 🐘
+- **Banco de Dados:** SQL Server 🗄️, MySQL 🐬, PostgreSQL 🐘, SQL 🛢️
 - **Tecnologias Web:** HTML5 🌐, CSS3 🎨, ASP.NET 🌐, SharePoint 🗂️
 - **DevOps & Colaboração:** Git 🔗, GitHub 🐙, Docker 🐳
 - **Infraestrutura e Redes:** DHCP 🌍, DNS 🔢, Active Directory 📂, Azure ☁️, Cisco Networks 🌐
