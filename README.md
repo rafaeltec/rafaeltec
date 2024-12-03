@@ -8,7 +8,7 @@ Bem-vindo ao meu universo GitHub! Sou apaixonado por tecnologia e tenho uma carr
 Estou profundamente imerso no mundo da tecnologia, explorando e implementando soluções que transformam ideias em realidades surpreendentes. Com especialização em inteligência artificial, automação, e APIs de assistentes inteligentes, estou sempre à frente, inovando com ferramentas de ponta como Stable Diffusion e MidJourney. 💡
 
 ## 🌱 Minha jornada atual
-Como Analista de Projetos na Amend Cosméticos, continuo a incentivar iniciativas inovadoras para otimizar processos utilizando GPT e outras tecnologias emergentes. Estou em busca de oportunidades para aplicar minhas habilidades avançadas em projetos desafiadores e inovadores, com foco em inteligência artificial e automação. 📈
+Como Analista de Sistemas na Amend Cosméticos, continuo a incentivar iniciativas inovadoras para otimizar processos utilizando GPT e outras tecnologias emergentes. Estou em busca de oportunidades para aplicar minhas habilidades avançadas em projetos desafiadores e inovadores, com foco em inteligência artificial e automação. 📈
 
 ## 🛠️ Stack de Tecnologias
 - **Linguagens de Programação:** Java ☕, JavaScript 🟨, C# 🔵, Python 🐍
