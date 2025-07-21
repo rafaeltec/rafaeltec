@@ -1,38 +1,37 @@
 # 👋 Olá, sou Rafael Bondioli! 🚀
 
-Bem-vindo ao meu universo GitHub! Sou entusiasta e especialista em tecnologia, com mais de 20 anos de experiência em desenvolvimento de soluções para automação, inteligência artificial e análise de dados. Atualmente, lidero projetos transformadores que integram IA generativa, APIs inteligentes e automação de processos de ponta. 🌟
+Bem-vindo ao meu universo GitHub! Sou entusiasta e especialista em tecnologia, com mais de 20 anos de experiência em desenvolvimento de soluções para automação, inteligência artificial e análise de dados. Atualmente, lidero projetos transformadores que integram IA generativa, APIs inteligentes, automação de processos e pipelines de dados com alto desempenho. 🌟
 
 ## 👀 O que me fascina?
-Sou movido pela curiosidade e inovação. Atuo com soluções que unem **visão computacional**, **LLMs como o ChatGPT**, **RAG (Retrieval-Augmented Generation)** e **fine-tuning** de modelos. Desenvolvo arquiteturas baseadas em **agentes autônomos**, com destaque para **agentes supervisores**, **multiagentes colaborativos** e **ciclos de raciocínio inteligente**.
+Sou movido pela curiosidade e inovação. Atuo com soluções que unem **visão computacional**, **LLMs como o ChatGPT**, **RAG (Retrieval-Augmented Generation)**, **fine-tuning** e **MCP (Model Context Protocol)**. Desenvolvo arquiteturas com **agentes autônomos**, incluindo **agentes supervisores**, **multiagentes cooperativos** e ciclos inteligentes de percepção-decisão-ação.
 
-Utilizo também o **Model Context Protocol (MCP)** em **diversos projetos de IA**, otimizando o fornecimento de contexto para modelos LLM e melhorando a precisão de respostas em fluxos conversacionais e de análise automatizada.  
-
-Gosto de criar produtos que realmente fazem diferença – como o **Consultor Visagista IA**, que utiliza análise de imagens, inteligência artificial e recomendações personalizadas; e o **Visualizador de Conversas 🤖 Helena**, ferramenta interativa que analisa interações com IA e apresenta dashboards dinâmicos. 💡
+Também integro **pipelines de dados orquestrados com Apache Airflow**, transformando dados brutos em valor para projetos com IA. Me destaco pela aplicação de vetores em bancos relacionais com **PostgreSQL + pgvector**, agregando embeddings em fluxos de análise de linguagem e recuperação contextualizada.
 
 ## 🌱 Minha jornada atual
-Sou Analista de Sistemas de IA Pleno na **Amend Cosméticos**, onde aplico tecnologias como GPT, Streamlit, OpenAI API, Prometheus/Grafana e protocolos como o **MCP** para transformar dados em soluções de alto impacto. Integro plataformas como **n8n** e **Make.com** a sistemas internos e externos, orquestrando fluxos inteligentes e autônomos com **agentes supervisores** e **estratégias multiagente**. 📈
+Atualmente sou Analista de Sistemas de IA Pleno na **Amend Cosméticos**, onde aplico tecnologias como GPT, Streamlit, OpenAI API, Prometheus/Grafana e **Apache Airflow** para orquestração de pipelines de dados. Utilizo bancos relacionais como **SQL Server**, **PostgreSQL**, **Supabase** e **SQLite** em soluções robustas e escaláveis. Integro plataformas como **n8n** e **Make.com** com fluxos inteligentes e **agentes autônomos**, promovendo inovação contínua. 📈
 
 ## 🛠️ Stack de Tecnologias
 
 - **Linguagens:** Python 🐍, Java ☕, C# 🔵, JavaScript 🟨  
 - **IA e NLP:** ChatGPT API 🤖, RAG 🔍, MCP 📚, Fine-tuning ⚙️, Agentes Autônomos 🤝  
-- **Automação & Low-code:** n8n 🔁, Make.com ⚙️, Selenium 📸, Airflow 🌬️  
-- **Arquiteturas de Agentes:** Agente Supervisor 👁️‍🗨️, Agente Multiagente 🔄, Ciclo Percepção-Ação 🧠  
-- **Dashboarding & Visualização:** Streamlit 📊, Grafana 📈, Prometheus 🛎️  
-- **Banco de Dados:** PostgreSQL 🐘, SQL Server 🗄️, MySQL 🐬  
+- **Automação & Orquestração:** n8n 🔁, Make.com ⚙️, Apache Airflow ⛓️  
+- **Arquiteturas de Agentes:** Agente Supervisor 👁️‍🗨️, Multiagente 🔄, Percepção-Decisão-Ação 🧠  
+- **Pipelines de Dados:** Airflow 📊, Pandas, Streamlit  
+- **Bancos Relacionais:** PostgreSQL 🐘, pgvector 📐, SQL Server 🗄️, SQLite 🧩, Supabase 🔷  
+- **Dashboarding & Monitoramento:** Streamlit 📈, Prometheus + PushGateway 🛎️, Grafana 📊  
 - **APIs & Backend:** RESTful APIs 🌐, FastAPI ⚡, Flask 🍶  
 - **DevOps & Deploy:** Docker 🐳, GitHub Actions 🔁, Render, Linux 🐧  
-- **Monitoramento:** Prometheus + PushGateway, Grafana Dashboards  
 - **Infraestrutura:** Azure ☁️, Active Directory 📂, Cisco Networks 🌐  
 
 ## 💼 Principais Projetos (em destaque nos repositórios)
 
 - 🧠 **Consultor Visagista IA** – Pipeline com visão computacional, análise visagista e recomendação personalizada de produtos Amend via IA  
-- 📈 **Helena Conversas com IA** – Aplicação em Streamlit com análise automática de diálogos via OpenAI, filtros, exportações e dashboards  
-- 🔁 **Integração WhatsApp + IA via n8n** – Automação completa com WhatsApp Business API, integração com GPT-4o, agentes autônomos e fluxos inteligentes  
-- 📊 **Painel de Monitoramento com Grafana** – Coleta de métricas da aplicação em tempo real com Prometheus + PushGateway e dashboards personalizados  
-- 🧠 **Projetos com MCP** – Uso de **Model Context Protocol** para estruturar e enriquecer interações em diversos projetos com IA, como análise conversacional, classificação automatizada e resposta contextualizada com LLMs  
-- 🤖 **Agente Supervisor com Arquitetura Multiagente** – Implementação de agentes inteligentes especializados, coordenados por agente supervisor com tomada de decisão contextualizada e feedbacks contínuos  
+- 📈 **Helena Conversas com IA** – App em Streamlit com análise automática de diálogos via OpenAI, filtros, exportações e dashboards  
+- 🔁 **Integração WhatsApp + IA via n8n** – Automação com WhatsApp Business API, integração com GPT-4o, agentes inteligentes e fluxos de decisão  
+- 📊 **Painel de Monitoramento com Grafana** – Coleta de métricas com Prometheus + PushGateway e dashboards interativos  
+- 🧬 **Pipeline de Dados com Airflow** – Orquestração de fluxos de ETL, tratamento de dados e integração com LLMs e bancos relacionais  
+- 🧠 **Projetos com MCP** – Uso do Model Context Protocol em aplicações com GPTs, enriquecendo o raciocínio contextualizado de agentes  
+- 🧮 **PostgreSQL + pgvector** – Armazenamento de embeddings vetoriais para recuperação semântica com IA  
 
 ## 💞️ Vamos colaborar?
 Estou sempre aberto a trocar experiências, ideias e colaborar com quem compartilha a paixão por IA, automação e dados. Vamos transformar juntos desafios em inovação! 🎩✨
