@@ -44,3 +44,6 @@ Entre em contato para discutir ideias ou explorar colaborações:
 🐙 [GitHub – @rafaeltec](https://github.com/rafaeltec)
 
 Agradeço por visitar meu perfil. Vamos criar o futuro com código e inteligência! 🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltec&layout=compact&theme=dark)
+
