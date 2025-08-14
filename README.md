@@ -22,9 +22,7 @@ Atualmente sou Analista de Sistemas de IA Pleno na **Amend Cosméticos**, onde a
 - **APIs & Backend:** RESTful APIs 🌐, FastAPI ⚡, Flask 🍶  
 - **DevOps & Deploy:** Docker 🐳, GitHub Actions 🔁, Render, Linux 🐧  
 - **Infraestrutura:** Azure ☁️, Active Directory 📂, Cisco Networks 🌐
-  
-![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeltec&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltec&layout=compact&theme=dark)
+
 
 ## 💼 Principais Projetos (em destaque nos repositórios)
 
@@ -37,6 +35,12 @@ Atualmente sou Analista de Sistemas de IA Pleno na **Amend Cosméticos**, onde a
 - 🧮 **PostgreSQL + pgvector** – Armazenamento de embeddings vetoriais para recuperação semântica com IA
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltec&layout=compact&theme=dark)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EC6C00?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-0072CE?style=for-the-badge&logo=make&logoColor=white)
+
 
 ## 💞️ Vamos colaborar?
 Estou sempre aberto a trocar experiências, ideias e colaborar com quem compartilha a paixão por IA, automação e dados. Vamos transformar juntos desafios em inovação! 🎩✨
