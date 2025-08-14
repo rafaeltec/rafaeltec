@@ -21,7 +21,10 @@ Atualmente sou Analista de Sistemas de IA Pleno na **Amend Cosméticos**, onde a
 - **Dashboarding & Monitoramento:** Streamlit 📈, Prometheus + PushGateway 🛎️, Grafana 📊  
 - **APIs & Backend:** RESTful APIs 🌐, FastAPI ⚡, Flask 🍶  
 - **DevOps & Deploy:** Docker 🐳, GitHub Actions 🔁, Render, Linux 🐧  
-- **Infraestrutura:** Azure ☁️, Active Directory 📂, Cisco Networks 🌐  
+- **Infraestrutura:** Azure ☁️, Active Directory 📂, Cisco Networks 🌐
+  
+![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeltec&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltec&layout=compact&theme=dark)
 
 ## 💼 Principais Projetos (em destaque nos repositórios)
 
