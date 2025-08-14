@@ -31,7 +31,9 @@ Atualmente sou Analista de Sistemas de IA Pleno na **Amend Cosméticos**, onde a
 - 📊 **Painel de Monitoramento com Grafana** – Coleta de métricas com Prometheus + PushGateway e dashboards interativos  
 - 🧬 **Pipeline de Dados com Airflow** – Orquestração de fluxos de ETL, tratamento de dados e integração com LLMs e bancos relacionais  
 - 🧠 **Projetos com MCP** – Uso do Model Context Protocol em aplicações com GPTs, enriquecendo o raciocínio contextualizado de agentes  
-- 🧮 **PostgreSQL + pgvector** – Armazenamento de embeddings vetoriais para recuperação semântica com IA  
+- 🧮 **PostgreSQL + pgvector** – Armazenamento de embeddings vetoriais para recuperação semântica com IA
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltec&layout=compact&theme=dark)
 
 ## 💞️ Vamos colaborar?
 Estou sempre aberto a trocar experiências, ideias e colaborar com quem compartilha a paixão por IA, automação e dados. Vamos transformar juntos desafios em inovação! 🎩✨
@@ -45,5 +47,5 @@ Entre em contato para discutir ideias ou explorar colaborações:
 
 Agradeço por visitar meu perfil. Vamos criar o futuro com código e inteligência! 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltec&layout=compact&theme=dark)
+
 
