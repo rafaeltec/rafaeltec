@@ -13,15 +13,37 @@ Atualmente sou Engenheiro de Inteligência Artificial na Locatelli Group (anteri
 ## 🛠️ Stack de Tecnologias
 
 - **Linguagens:** Python 🐍, Java ☕, C# 🔵, JavaScript 🟨  
-- **IA e NLP:** ChatGPT API 🤖, RAG 🔍, MCP 📚, Fine-tuning ⚙️, Agentes Autônomos 🤝  
-- **Automação & Orquestração:** n8n 🔁, Make.com ⚙️, Apache Airflow ⛓️  
-- **Arquiteturas de Agentes:** Agente Supervisor 👁️‍🗨️, Multiagente 🔄, Percepção-Decisão-Ação 🧠  
-- **Pipelines de Dados:** Airflow 📊, Pandas, Streamlit  
-- **Bancos Relacionais:** PostgreSQL 🐘, pgvector 📐, SQL Server 🗄️, SQLite 🧩, Supabase 🔷  
-- **Dashboarding & Monitoramento:** Streamlit 📈, Prometheus + PushGateway 🛎️, Grafana 📊  
-- **APIs & Backend:** RESTful APIs 🌐, FastAPI ⚡, Flask 🍶  
-- **DevOps & Deploy:** Docker 🐳, GitHub Actions 🔁, Render, Linux 🐧  
-- **Infraestrutura:** Azure ☁️, Active Directory 📂, Cisco Networks 🌐
+
+- **IA & Engenharia de LLMs:**  
+  OpenAI API 🤖, RAG (Retrieval-Augmented Generation) 🔍, MCP (Model Context Protocol) 📚, Fine-tuning ⚙️, Embeddings, Vector Search, Agentes Autônomos 🤝  
+
+- **Arquitetura de Agentes:**  
+  Sistemas Multiagentes 🔄, Agente Supervisor 👁️‍🗨️, Arquitetura Percepção–Decisão–Ação 🧠, Human-in-the-Loop, Tool Calling, Skills, integração via HTTP/HTTPS, consumo e orquestração de APIs, conexão com serviços externos e execução de tarefas ponta a ponta  
+
+- **Canais & Agentes Conversacionais:**  
+  Integração de agentes com Microsoft Teams, WhatsApp, Telegram e Webchat em sites (Bubble) 🌐  
+  Bots corporativos, APIs de mensageria, Webhooks, orquestração omnichannel  
+
+- **Automação & Orquestração:**  
+  n8n 🔁, Make.com ⚙️, Apache Airflow ⛓️  
+
+- **Pipelines & Engenharia de Dados:**  
+  Airflow 📊, Pandas, ETL/ELT, Streamlit  
+
+- **Bancos de Dados & Storage:**  
+  PostgreSQL 🐘, pgvector 📐, SQL Server 🗄️, SQLite 🧩, Supabase 🔷, Redis  
+
+- **Observabilidade & Monitoramento:**  
+  Streamlit 📈, Prometheus + PushGateway 🛎️, Grafana 📊, Logging estruturado  
+
+- **APIs & Backend:**  
+  RESTful APIs 🌐, FastAPI ⚡, Flask 🍶, Webhooks, integrações com Microsoft Graph  
+
+- **DevOps & Deploy:**  
+  Docker 🐳, GitHub Actions 🔁, CI/CD, Render, Linux 🐧  
+
+- **Infraestrutura & Corporativo:**  
+  Azure ☁️, Active Directory 📂, Microsoft Graph API, Redes Cisco 🌐  
 
 
 ## 💼 Principais Projetos (em destaque nos repositórios)
