@@ -8,7 +8,7 @@ Sou movido pela curiosidade e inovação. Atuo com soluções que unem **visão 
 Também integro **pipelines de dados orquestrados com Apache Airflow**, transformando dados brutos em valor para projetos com IA. Me destaco pela aplicação de vetores em bancos relacionais com **PostgreSQL + pgvector**, agregando embeddings em fluxos de análise de linguagem e recuperação contextualizada.
 
 ## 🌱 Minha jornada atual
-Atualmente sou Analista de Sistemas de IA Pleno na **Amend Cosméticos**, onde aplico tecnologias como GPT, Streamlit, OpenAI API, Prometheus/Grafana e **Apache Airflow** para orquestração de pipelines de dados. Utilizo bancos relacionais como **SQL Server**, **PostgreSQL**, **Supabase** e **SQLite** em soluções robustas e escaláveis. Integro plataformas como **n8n** e **Make.com** com fluxos inteligentes e **agentes autônomos**, promovendo inovação contínua. 📈
+Atualmente sou Engenheiro de Inteligência Artificial na Locatelli Group (anteriormente Amend Cosméticos), onde lidero iniciativas de automação, desenvolvimento de agentes inteligentes e projetos estratégicos dentro do programa AI Factory, onde aplico tecnologias como GPT, Streamlit, OpenAI API, Prometheus/Grafana e **Apache Airflow** para orquestração de pipelines de dados. Utilizo bancos relacionais como **SQL Server**, **PostgreSQL**, **Supabase** e **SQLite** em soluções robustas e escaláveis. Integro plataformas como **n8n** e **Make.com** com fluxos inteligentes e **agentes autônomos**, promovendo inovação contínua. 📈
 
 ## 🛠️ Stack de Tecnologias
 
